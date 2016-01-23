@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"revenue",
+				"revenue_update"
+			],
+			[
+				"phone_",
+				"phone_number"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"safe",
+				"safe_require"
+			],
+			[
+				"dama",
+				"damage_to_robot"
+			],
+			[
+				"items",
+				"items_weight"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"di",
+				"different_array"
+			],
+			[
+				"healt",
+				"health_points"
+			],
+			[
+				"hea",
+				"health_points"
+			],
+			[
+				"attack",
+				"attack_power"
+			],
+			[
+				"att",
+				"attr_reader"
+			],
+			[
+				"help",
+				"help_message"
+			],
+			[
+				"In",
+				"InvalidGuessError"
+			],
+			[
+				"ans",
+				"answer_timer"
+			],
+			[
+				"i",
+				"to_i"
+			],
+			[
+				"pla",
+				"player1"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"outp",
+				"output2"
+			],
+			[
+				"state",
+				"describe_state"
+			],
+			[
+				"letter",
+				"letters"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 491,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "vmen",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 477.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/ng/DATA/LighthouseLabs/Week3/Day5/Sinatra_Practice",
+		"/media/ng/DATA/LighthouseLabs/Week3/Day5/Sinatra_Practice/db",
+		"/media/ng/DATA/LighthouseLabs/Week3/Day5/Sinatra_Practice/db/migrate"
+	],
+	"file_history":
+	[
+		"/media/ng/DATA/ng/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/media/ng/DATA/LighthouseLabs/Week3/contact_list_ORB/contact_list.rb",
+		"/media/ng/DATA/LighthouseLabs/Week3/contact_list_ORB/contacts.csv",
+		"/media/ng/DATA/LighthouseLabs/Week3/contact_list_ORB/pg-test.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/contact_list/contact.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/contact_list/contact_list.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/contact_list/contacts.csv",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/contact_list/main_contact.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/10_auto_equip_weapons.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/12_auto_heal_if_needed.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/11_can_only_attack_nearby_robots.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/11_robot_health.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/09_robot_can_equip_and_use_weapons.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/03_robot_item_interaction.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/05_robot_can_eat_bolts.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/06_weapons.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/07_lasers.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/08_plasma_cannons.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/02_items_have_name_and_weight.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/04_robot_health.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day4/MockTest/lighthouse-mock-test-oop/spec/01_robot_has_position_and_movement.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day3/webScraper/comment_stolen.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/lib/unit.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/spec/test_04.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/spec/test_13.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/lib/barracks.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/lib/peasant.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/lib/footman.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day1/2P_game/2P_exep.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/spec/test_03.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/spec/test_02.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/spec/test_01.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day2/warcraft/warcraft3/spec/test_10.rb",
+		"/media/ng/DATA/LighthouseLabs/Day5/2player_twoop.rb",
+		"/media/ng/DATA/LighthouseLabs/Day5/person.rb",
+		"/media/ng/DATA/LighthouseLabs/Week1/Day2/DogBark/woof.rb",
+		"/media/ng/DATA/LighthouseLabs/Week1/Day3/state_info.rb",
+		"/media/ng/DATA/LighthouseLabs/Day6_Sat/poppinBottles.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day1/ClassInherit/chimpanzee.rb",
+		"/media/ng/DATA/LighthouseLabs/Week2/Day1/File_IO.rb",
+		"/media/ng/DATA/LighthouseLabs/Day6_Sat/rspec/1_hello_world.rb",
+		"/media/ng/DATA/LighthouseLabs/Day6_Sat/Questions",
+		"/media/ng/DATA/LighthouseLabs/Day3/Debug/debug02.rb",
+		"/media/ng/DATA/LighthouseLabs/Day6_Sat/rspec/2_arrays.rb",
+		"/media/ng/DATA/LighthouseLabs/Day4/candidates/filters.rb",
+		"/media/ng/DATA/LighthouseLabs/Day4/benchmark_with_block.rb",
+		"/media/ng/DATA/LighthouseLabs/Day4/regular_expressions.rb",
+		"/media/ng/DATA/LighthouseLabs/Day4/game/person.rb",
+		"/media/ng/DATA/LighthouseLabs/Day4/game/2player_twoop.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/roman.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/Questions",
+		"/media/ng/DATA/LighthouseLabs/Day3/state_info.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/count.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/Debug/debug03.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/Debug/debug01.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/Debug/debug04.rb",
+		"/media/ng/DATA/LighthouseLabs/Day3/Debug/error_example.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/End of day questions",
+		"/media/ng/DATA/LighthouseLabs/Day2/example.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/MaxVal/max.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/Renter/renter.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/DogBark/woof.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/Sort/sort.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/Fizzbuzz_messy/fizzbuzz_messy.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/SignShop/banner.rb",
+		"/media/ng/DATA/LighthouseLabs/Day2/fizzbuzz/fizzbuzz.rb",
+		"/media/ng/DATA/LighthouseLabs/PreCourse/Ruby/FizzBuzz/FizzBuzz.rb",
+		"/media/ng/DATA/LighthouseLabs/Day1/git-mania/cities.html",
+		"/media/ng/DATA/LighthouseLabs/Ruby/Calculator.rb",
+		"/media/ng/DATA/LighthouseLabs/Ruby/FizzBuzz.rb",
+		"/media/ng/DATA/LighthouseLabs/TacoSalad/script.js",
+		"/media/ng/DATA/LighthouseLabs/TacoSalad/style.css",
+		"/media/ng/DATA/LighthouseLabs/TacoSalad/tacosaladJS.html",
+		"/media/ng/DATA/WestCoastPlacerBLOG/SiteFiles/FreedomNov2015/page-templates/BlogTemplate.php",
+		"/media/ng/DATA/WestCoastPlacerBLOG/SiteFiles/recommendedSidebar.html",
+		"/media/ng/DATA/WestCoastPlacerBLOG/funtions.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"test",
+			"search",
+			"'",
+			"ent",
+			"thing",
+			"&#39;",
+			"&#",
+			"#&&",
+			"name",
+			"damage",
+			"rubies",
+			"points",
+			"url",
+			"title",
+			"'\n",
+			"peasant",
+			"building",
+			"footman",
+			"end",
+			"contacts.csv",
+			"class",
+			"bottles",
+			"free",
+			"1",
+			"lives",
+			"p2_lives",
+			"p1_lives",
+			"player1",
+			"p2_lives",
+			").(\\",
+			"done",
+			"0",
+			"q",
+			"radio",
+			"li",
+			"'li'",
+			"'#main'",
+			"img",
+			"'.instructions'",
+			"200",
+			"	\n",
+			"700px",
+			"%;\n",
+			"itemprop=\"ingredients\""
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ent",
+			"id",
+			"find",
+			"\"",
+			"res",
+			"ent",
+			"'",
+			"hearts",
+			"name",
+			"date",
+			"text",
+			"user",
+			"unit",
+			"barracks",
+			"peasant",
+			"csv_file",
+			"caps",
+			"@free",
+			"2",
+			"points",
+			"player2.lives",
+			"player1.lives",
+			"player2.lives",
+			"swap",
+			"checkbox",
+			"span",
+			"label",
+			"'#ingredients'",
+			"'img'",
+			"'#main'",
+			"img",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/media/ng/DATA/LighthouseLabs/Week3/Day5/Sinatra_Practice"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Rakefile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 243.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
